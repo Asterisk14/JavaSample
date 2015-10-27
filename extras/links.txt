@@ -1,3 +1,5 @@
+https://developer.yahoo.com/hadoop/tutorial/
+
 http://sujitpal.blogspot.de/2012/07/fun-with-hadoop-in-action-exercises-java.html
 
 http://stackoverflow.com/questions/15743943/using-hadoop-for-parallel-processing-rather-than-big-data
