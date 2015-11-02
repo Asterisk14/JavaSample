@@ -1,0 +1,59 @@
+https://blog.udemy.com/java-interview-questions/ 
+
+JVM - is written machine specific -- bytecode to machine code 
+compile karna aur run karna alag hai
+
+compile karne ke baad jo aata hai 
+
+Platform Indepedent not language indepedent 
+.class file will run on evvery platform - after compilation the byte code will run on any platform
+compile anywhere run anywhere 
+
+multiple JRes could be there...multiple JRE's could be loaded... based on runtime 
+
+compiler -- java 
+interpretor - function based --- javascript 
+
+
+
+----- 
+C# - mono environment 
+CLR = JVM  ---- sctaully implement is JRE
+JRE = .NET framework -- mono and core in Linux
+Visual studio - editor - eclipse 
+SDK (old) = JDK  -- DNX (new)
+-----
+
+What does static keyword mean? 
+int a = 10
+int static a = 10
+-- cannot change -- 
+constant kyun nahi banaya - kyunki changeable hai ...
+sabko reflect karna hai to static abana diya -- weather ka example
+
+ab rate ko koi aur change nahi kare?  
+4. What are the Data Types supported by Java? What is Autoboxing and Unboxing?
+
+
+Stringbuffer - mutable -- 
+
+-------------------------
+overloading - functionality is same
+println example
+
+overriding -- basic functionality ko modify krte 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
