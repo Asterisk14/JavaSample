@@ -28,7 +28,7 @@ class WordCounter
 				wordFrequency.put(word, 1);
 			}
 			else {
-				wordFrequency.put(word, wordFrequency.get(key) + 1)
+				wordFrequency.put(word, wordFrequency.get(key) + 1);
 			}
         }
 		for (Map.Entry<String, String> entry : wordFrequency.entrySet()) {
