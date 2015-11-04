@@ -8,6 +8,7 @@ public class WordFrequency{
 	public static void main(String args[]){
 		Map<String, Integer> m = new HashMap<String,Integer>();
 		
+		
 		for (String a: args)
 		{
 
@@ -24,6 +25,8 @@ I did not think that I will have to get something from an empty map first?
 	
 //System.out.println(m.size() + " distinct words:");
        System.out.println(m);
+Map<String, Integer> copy = new HashMap<String,Integer>(m);
+       System.out.println(copy);
 	
 	}
 }
